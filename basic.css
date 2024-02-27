@@ -1,0 +1,28 @@
+*{
+   
+}
+body{
+    background-image: url(./Apples.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    background-color:black;
+
+}
+h1{
+    font-size: medium;
+}
+.container{
+    border-radius: 10px;
+    padding-right: 400px;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 200px;
+    margin-top: 200px;
+    color:white;
+   justify-content: center;
+    background-color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    opacity: 0.5;
+}
